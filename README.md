@@ -1,8 +1,5 @@
 ### Hi there, I'm [Mark!](https://github.com/markbeam) 👋
 
-| <a><img align="center" src="https://github-readme-stats.ipxy.cc/api?username=markbeam&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=transparent" alt="Shine's GitHub Stats" /></a> | <a><img align="center" src="https://github-readme-stats.ipxy.cc/api/top-langs/?username=markbeam&hide_border=true&layout=compact&hide=TSQL,Liquid,Blade,Dockerfile,CSS,Smarty,jupyter%20notebook&theme=transparent" /></a> |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 #### 🛠️ Tech Stack
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
